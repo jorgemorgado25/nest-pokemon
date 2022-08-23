@@ -5,6 +5,7 @@
 .yarn.lock
 
 .env
+.env.prod
 
 #DATABASE 
 /mongo
